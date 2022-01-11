@@ -17,7 +17,6 @@
 -[Neeraj Sehgal](https://github.com/SehgalNeeraj)
 -[Senthil Bala](https://github.com/besenthil)
 -[Benjamin Bruno](https://github.com/leckermatz79)
-- [Riyaz Ahmed](https://github.com/riyazgithub)
 -[Yonkwang Kim]
 -[Rajan Lodhiya]
 -[Anas Muhammed]
@@ -124,6 +123,7 @@
   [Rehan M Ali](https://github.com/rali7196)
 - [Emely]
 - [Vox]
+- [yewinag](https://github.com/yewinag)
 - [Nijil Chandran]
 - [CrypticXT](https://github.com/CrypticXT)
 - [Riley Huff](https://github.com/RileyMH231)
@@ -320,12 +320,8 @@ Justin Villena
 - Isaiah Hernandez
 - Relly Valentine
 - Odell Blackmon III
-<<<<<<< HEAD
-- Phi Doan
-=======
 - Karttekay Grover
 - Phi Doan
->>>>>>> 77b8a33b1e3340ce0797d3534ad02bc021cb0961
 - kishan Yadav
 - Prashant Bhapkar
 - Ellie Brinkman
@@ -4451,6 +4447,7 @@ Michael Wong
 - [Tyler Sanders](https://github.com/styler0)
 - [Ankur Upadhyay](https://github.com/ankurup3)
 - [Duy Khanh](https://github.com/lordshenk)
+- [Riyaz Ahmed](https://github.com/riyazgithub)
 - [Vincent Fantin]
 - [Bryan Kristiono](https://github/Kristinus)
 - [Neerosh] (https://github.com/Neerosh)
